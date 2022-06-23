@@ -2,7 +2,7 @@
  <div id='build'>
   <div class="contain">
   <el-card class="login-container">
-	<el-card class="welcome">Reportime</el-card>
+	<el-card class="welcome">Repotime</el-card>
 	<el-card style="font-size:20px;margin: 30px auto;">New here? Sign up for free.</el-card>
   </el-card>
   <el-form :model="form" status-icon :rules="rules" ref="form" label-width="100px" class="login-container">

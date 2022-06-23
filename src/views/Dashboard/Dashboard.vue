@@ -94,7 +94,7 @@
 			reload(){
 				this.drawLine();
 				this.tool();
-				this.getuerlevel();
+				this.getuserlevel();
 				this.getoperating_system();
 				this.getlanguage();
 				this.getprojectime();

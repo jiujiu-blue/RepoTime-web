@@ -1,7 +1,7 @@
 <template>
 	<div id='building'>
   <el-form :model="form" status-icon :rules="rules" ref="form" label-width="100px" class="login-container">
-    <el-card class="login_title">Reportime</el-card>
+    <el-card class="login_title">Repotime</el-card>
     <el-form-item label="用户名" label-width="80px" prop="username" class="username">
       <el-input type="input" v-model="form.username" autocomplete="off" placeholder="请输入账号"></el-input>
     </el-form-item>

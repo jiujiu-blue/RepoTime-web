@@ -12,9 +12,8 @@
         <el-descriptions-item>
           <template slot="label">
             <i class="el-icon-s-custom"></i>
-            昵称
           </template>
-          {{ nickname }}
+          {{ nickname }}(id:{{this.$store.state.userid}})
         </el-descriptions-item>
 		<el-descriptions-item>
 	<template slot="label">

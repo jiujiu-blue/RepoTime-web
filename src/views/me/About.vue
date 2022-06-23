@@ -5,13 +5,14 @@
 		About us
 	</el-card>
 	<el-card style="background-color:aquamarine;color:black;height: 60px;margin-top: 10px;">
-		1、这是一个编写代码时间的可视化平台
+		1、这是一个代码时间的数据可视化平台
 	</el-card>
 	<el-card style="background-color:lightpink;color:black;height: 60px;margin-top: 10px;">
-		feffe
+		2、您可以访问我们的github地址把您的想法告诉我们
+		https://github.com/ASC8384/RepoTime-vscode
 	</el-card>
 	<el-card style="background-color:mediumpurple;color:black;height: 60px;margin-top: 10px;">
-		feffe
+		希望您使用愉快！
 	</el-card>
   </div>
 </template>

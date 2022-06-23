@@ -10,7 +10,7 @@
 	active-backgroundcolor="#f56007"
   >
     <!--是否水平折叠收起菜单 会影响这里字段的显示 -->
-	<h3 v-show="!isCollapse" style="font-size: 33px;height:12%;font-style: italic;color:black">Reportime</h3>
+	<h3 v-show="!isCollapse" style="font-size: 33px;height:12%;font-style: italic;color:black">Repotime</h3>
 	<h3 v-show="isCollapse"><el-avatar :src="avatar"></el-avatar></h3>
 	<h3 v-show="!isCollapse" style="color:black">
 	<el-avatar :src="avatar"></el-avatar>{{nickname}}</h3>
@@ -31,7 +31,7 @@
       </el-menu-item-group>
     </el-submenu>
 	<h3 v-show="!isCollapse" class="footview" style="line-height: 40px;">
-		<el-link href="https://element.eleme.io" target="_blank" style="color:black;font-style: italic;font-size: 1.7em;font-weight:400;text-align: center;">
+		<el-link href="https://github.com/ASC8384/RepoTime-vscode" target="_blank" style="color:black;font-style: italic;font-size: 1.7em;font-weight:400;text-align: center;">
 			Contact us
 		</el-link>
 	</h3>
